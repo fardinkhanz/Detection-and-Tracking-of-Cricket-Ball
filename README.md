@@ -1,4 +1,4 @@
-# Detection-and-Tracking-of-Cricket-Ball
+# Detection and Tracking of Cricket Ball
 ![motivation2](https://github.com/fardinkhanz/Detection-and-Tracking-of-Cricket-Ball/assets/89691395/ca3491c2-bce4-40d7-9a4b-c8962477fadf)
 
 
